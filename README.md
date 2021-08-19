@@ -21,9 +21,13 @@ The statistics computed are:
 The _raw data files_ are not included in the repository because of their size. They can be downloaded from the Udacity project pages.
 
 bikeshare.py - The python script
+
 chicago.csv - Raw data for Chicago (not included in the repository)
+
 new_york_city.csv - Raw data for New York City (not included in the repository)
+
 washington.csv - Raw data for Washington (not included in the repository)
+
 
 ### Credits
 The initial repository template was cloned from https://github.com/udacity/pdsnd_github.
