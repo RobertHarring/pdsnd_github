@@ -12,7 +12,7 @@ The statistics computed are:
 - What are the most popular times of travel (month, week, day)?
 - What are the most popular stations and trips (most common start station, most common end station, most common trip from start to end)?
 - What is the total travel time?
-- Waht is the average travel time?
+- What is the average travel time?
 - What types of users have rented the bikes?
 - What is the gender count of the customers?
 - What is the earliest, most recent and most commmon year of birth of the customers?
@@ -20,10 +20,10 @@ The statistics computed are:
 ### Files used
 The _raw data files_ are not included in the repository because of their size. They can be downloaded from the Udacity project pages.
 
-**bikeshare.py** - The python script
-**chicago.csv** - Raw data for Chicago (not included in the repository)
-**new_york_city.csv** - Raw data for New York City (not included in the repository)
-**washington.csv** - Raw data for Washington (not included in the repository)
+bikeshare.py - The python script
+chicago.csv - Raw data for Chicago (not included in the repository)
+new_york_city.csv - Raw data for New York City (not included in the repository)
+washington.csv - Raw data for Washington (not included in the repository)
 
 ### Credits
 The initial repository template was cloned from https://github.com/udacity/pdsnd_github.
