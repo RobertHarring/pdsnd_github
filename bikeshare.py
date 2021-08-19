@@ -12,6 +12,8 @@ Mode() function in python: https://www.geeksforgeeks.org/python-statistics-mode-
 Mean() function in python: https://www.geeksforgeeks.org/python-statistics-mean-function/
 Answer from tutor Raghavendra Prasad regarding mode and count: https://knowledge.udacity.com/questions/639181
 
+This is the changed version for the git course.
+
 """
 
 import time
